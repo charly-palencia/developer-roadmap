@@ -29,7 +29,7 @@ As a developer, there are certain commands that we use very often during our dai
 
 ### Advance commands
 
-Some other commands are rarely used during the daily work, but they are really important to solve specific problems, Check those command [Here](https://www.atlassian.com/git/tutorials/advanced-overview)
+Some other commands are rarely used during daily work, but they are really important to solve specific problems, Check those commands [Here](https://www.atlassian.com/git/tutorials/advanced-overview)
 
 
 Additional resources:
