@@ -4,9 +4,9 @@
   <br />
 
   <h3 align="center">Intro</h3>
+
   <p align="center">
-    <br />
-    <a href="https://git-scm.com/docs/git" target="_blank"><strong>Explore the docs »</strong></a>
+  Required for any path
   </p>
 </p>
 
