@@ -36,4 +36,8 @@ Additional resources:
 
 * [Bitbucket Getting Started](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 * [Awesome Git](https://github.com/dictcp/awesome-git)
+* [Git workflow course](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
+* [Git Interactive Scenarios](https://www.katacoda.com/courses/git)
+* [Branch interactive course](https://learngitbranching.js.org/)
+
 
