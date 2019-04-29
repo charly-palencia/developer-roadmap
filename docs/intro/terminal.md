@@ -21,11 +21,8 @@ A command line interface (CLI) is a type of human-computer interface (i.e., a wa
 
 Understanding of basic CLI command is an important skill for all developers as they have to face linux server configurations. E.g. Developer requires the ability to access server through ssh protocol manipiulate folder structures and services remotely.
 
-
 Additional resources:
 
 * [CLI quick guide to started](https://www.makeuseof.com/tag/a-quick-guide-to-get-started-with-the-linux-command-line/)
 * [Awesome CLI apps](https://github.com/agarrharr/awesome-cli-apps)
 * [Linux command line basics](https://www.techspot.com/guides/835-linux-command-line-basics/)
-
-
