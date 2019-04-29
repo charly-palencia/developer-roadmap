@@ -14,7 +14,7 @@
 ## Table of Contents
 
 * [Git - Version Control](git.md)
-* [Basic Terminal Usage](git.md)
+* [Basic Terminal Usage](terminal.md)
 * [Daa Structure & Algorithms](git.md)
 * [SOLID, KISS, YANGNI](git.md)
 * [Github](git.md)
