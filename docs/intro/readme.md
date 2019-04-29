@@ -1,4 +1,3 @@
-<!-- PROJECT LOGO -->
 <p align="center">
   <img src="basic-logo.png" alt="Logo" width="80" height="80">
   <br />
@@ -10,17 +9,21 @@
   </p>
 </p>
 
-<!-- TABLE OF CONTENTS -->
+## Summary
+
+This section includes all the topic describe into the [`Introduction`](../../images/intro.png) Developer Roadmap image:
+
+
 ## Table of Contents
 
 * [Git - Version Control](git.md)
 * [Basic Terminal Usage](terminal.md)
-* [Daa Structure & Algorithms](git.md)
+* [Data Structure & Algorithms](git.md)
 * [SOLID, KISS, YANGNI](git.md)
 * [Github](git.md)
-* [Semantic Versioning](git.md)
+* [Semantic Version](git.md)
 * [SSH](git.md)
-* [HTTP/HTTPS and APIs](git.md)
+* [HTTP/HTTPS and API](git.md)
 * [Design Patterns](git.md)
-* [Character Encodings](git.md)
+* [Character Encoding](git.md)
 * [Plain formats](git.md)
