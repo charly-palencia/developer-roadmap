@@ -20,7 +20,6 @@
 
 Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals.
 
-
 ## Getting Started
 
 ### Base commands
@@ -31,7 +30,6 @@ As a developer, there are certain commands that we use very often during our dai
 
 Some other commands are rarely used during daily work, but they are really important to solve specific problems, Check those commands [Here](https://www.atlassian.com/git/tutorials/advanced-overview)
 
-
 Additional resources:
 
 * [Bitbucket Getting Started](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
@@ -39,5 +37,3 @@ Additional resources:
 * [Git workflow course](https://www.codecademy.com/courses/learn-git/lessons/git-workflow/exercises/hello-git)
 * [Git Interactive Scenarios](https://www.katacoda.com/courses/git)
 * [Branch interactive course](https://learngitbranching.js.org/)
-
-
