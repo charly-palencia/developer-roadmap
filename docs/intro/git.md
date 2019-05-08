@@ -10,7 +10,7 @@
     <br />
     <a href="https://guides.github.com/introduction/git-handbook/" target="_blank">Handbook</a>
     ·
-    <a href="#">Try it</a>
+    <a href="https://git-school.github.io/visualizing-git/" target="_blank">Visualizing Git</a>
     ·
     <a href="https://github.github.com/training-kit/" target="_blank">Cheat Sheets</a>
   </p>
