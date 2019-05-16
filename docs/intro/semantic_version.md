@@ -27,4 +27,4 @@ Whenever releasing a product or app, you’ll want to version it. This helps use
 
 ## Action Items
 
-- [ ] Read semantic version specs
+- [ ] Read semantic versioning specs
