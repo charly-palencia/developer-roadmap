@@ -3,7 +3,7 @@
 
   <h3 align="center">Semantic Versioning</h3>
   <p align="center">
-    <a href="https://semver.org/" target="_blank">Semantic version spec</a>
+    <a href="https://semver.org/" target="_blank">Semantic versioning spec</a>
     ·
     <a href="https://jubianchi.github.io/semver-check/#/1.2.8/1.2.8">Semver check</a>
   </p>
