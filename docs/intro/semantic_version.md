@@ -19,8 +19,6 @@ Whenever releasing a product or app, you’ll want to version it. This helps use
 
 ## Resources
 
-Semantic version specification was created in an effort
-
 - [Semantic version video](https://www.youtube.com/watch?v=QMUSkra7Blk)
 - [About semantic version with NPM](https://docs.npmjs.com/about-semantic-versioning)
 - [NPM semver calculator](https://semver.npmjs.com/)
