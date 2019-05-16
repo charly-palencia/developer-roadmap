@@ -20,7 +20,7 @@ This section includes all the topics described into the [`Introduction`](../../i
 1. [Git & Github - Version Control](git.md)
 1. [Basic Terminal Usage](terminal.md)
 1. [SSH](ssh.md)
-1. [Semantic Version](semantic_version.md)
+1. [Semantic Versioning](semantic_versioning.md)
 1. [SQL](git.md)
 1. [Data Structure & Algorithms](git.md)
 
