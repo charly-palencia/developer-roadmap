@@ -22,7 +22,7 @@ This section includes all the topics described in the [`Introduction`](../../ima
 1. [SSH](ssh.md)
 1. [Semantic Versioning](semantic_versioning.md)
 1. [SQL](sql.md)
-1. [Data Structure & Algorithms](git.md)
+1. [Data Structures & Algorithms](git.md)
 
 #### Test/Quiz
 
