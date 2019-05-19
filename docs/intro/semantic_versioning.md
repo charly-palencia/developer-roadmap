@@ -1,7 +1,7 @@
 <p align="center">
-<img src="../../images/logos/semantic-versioning.png" alt="Logo" width="80" height="80">
+<img src="../../images/logos/semantic-versioning-logo.png" alt="Logo" width="80" height="80">
 
-  <h3 align="center">Semantic Versioning</h3>
+  <h3 align="center">1.4 Semantic Versioning</h3>
   <p align="center">
     <a href="https://semver.org/" target="_blank">Semantic versioning spec</a>
     ·

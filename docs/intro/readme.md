@@ -11,7 +11,7 @@
 
 ## Summary
 
-This section includes all the topics described into the [`Introduction`](../../images/intro.png) Developer Roadmap image:
+This section includes all the topics described in the [`Introduction`](../../images/intro.png) Developer Roadmap image:
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@ This section includes all the topics described into the [`Introduction`](../../i
 1. [Basic Terminal Usage](terminal.md)
 1. [SSH](ssh.md)
 1. [Semantic Versioning](semantic_versioning.md)
-1. [SQL](git.md)
+1. [SQL](sql.md)
 1. [Data Structure & Algorithms](git.md)
 
 #### Test/Quiz
