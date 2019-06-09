@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../../images/logos/ssh.png" alt="Logo" width="80" height="80">
+<img src="../../images/logos/ssh-logo.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">1.3 SSH</h3>
   <p align="center">
